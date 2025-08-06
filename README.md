@@ -2,6 +2,8 @@
 
 A beautiful, modern chatbot application built with Flask, LangChain, and ChromaDB. Features conversation memory, multiple AI models (Google Gemini & Groq), and a responsive web interface.
 
+[![Watch the demo](https://img.youtube.com/vi/vXNW52iUxLg/0.jpg)](https://youtu.be/vXNW52iUxLg)
+
 ## 🚀 Features
 
 - **Multiple AI Models**: Switch between Google Gemini and Groq LLM
